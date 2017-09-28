@@ -145,6 +145,7 @@
         <module>cqrs</module>
         <module>event-sourcing</module>
         <module>data-transfer-object</module>
+        <module>spatial-partition</module>
     <module>throttling</module>
         <module>partial-response</module>
     </modules>
